@@ -1,0 +1,5 @@
+@media(max-width:960px) {.container {width : 760px;}}
+@media(max-width:720px) {.container {width : 520px;}}
+@media(max-width:500px) {.container {width : 300px;}}
+.container{width:800px; margin: 80px auto;}
+.container h1 {color:white;}
